@@ -6,21 +6,7 @@
 ### A Surplus Food Redistribution Platform
  
 *Connecting Donors, NGOs, and Volunteers to Reduce Food Waste*
- 
-<br/>
-[![Django](https://img.shields.io/badge/Django-6.0.5-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![HTML](https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Interactivity-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- 
-<br/>
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/TajkirHossen-14/Ahaar_Bonton?style=flat-square)](https://github.com/TajkirHossen-14/Ahaar_Bonton/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/TajkirHossen-14/Ahaar_Bonton?style=flat-square)](https://github.com/TajkirHossen-14/Ahaar_Bonton/commits/main)
- 
-</div>
+
 ---
  
 ## 📖 About the Project
