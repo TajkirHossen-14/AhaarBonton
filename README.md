@@ -34,7 +34,7 @@ This platform provides a structured, community-driven solution to that contradic
 ```
 AhaarBonton/
 │
-├── ahaarbonton/
+├── ahaar_bonton/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
