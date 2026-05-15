@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="Assets/Banner/AhaarBonton Banner.png" alt="Ahaar Bonton Banner" width="100%">
 </p>
@@ -6,6 +7,7 @@
  
 *Connecting Donors, NGOs, and Volunteers to Reduce Food Waste*
 </div>
+
 ---
  
 ## 📖 About the Project
