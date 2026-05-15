@@ -12,22 +12,21 @@
  
 ## 📖 About the Project
  
-**Ahaar Bonton (আহার বণ্টন)** is a web-based platform built to bridge the gap between surplus food and those in need. Every day, enormous amounts of edible food go to waste at restaurants, events, and households — while many people go hungry. This platform provides a structured, community-driven solution to that problem.
+**Ahaar Bonton (আহার বণ্টন)** is a web-based surplus food redistribution platform built specifically for the context of Bangladesh. Every day, significant amounts of food go to waste at restaurants, weddings, corporate events, and households, while many people struggle to meet their daily nutritional needs.
+This platform provides a structured, community-driven solution to that contradiction. Donors can post surplus food listings, NGOs can claim and coordinate pickups, and volunteers can register to assist with deliveries – all through a single, unified platform designed to work within Bangladesh's existing social and organizational fabric.
  
-Donors can post surplus food listings, NGOs can claim and coordinate pickups, and volunteers can register to assist with deliveries — all through a single, unified platform.
- 
-> *"Ahaar" (আহার) means food, and "Bonton" (বণ্টন) means distribution — together, a name that speaks for itself.*
+> *"Ahaar" (আহার) means food, and "Bonton" (বণ্টন) means distribution – together, a name that speaks for itself.*
  
 ---
  
 ## ✨ Key Features
  
-- 🥘 **Food Donation Listings** — Donors can post surplus food with details like quantity, type, and pickup location
-- 🏢 **NGO Dashboard** — NGOs can browse available donations and claim them for redistribution
-- 🚴 **Volunteer Management** — Volunteers can register and assist with food pickup and delivery
-- 👤 **User Authentication** — Separate registration and profile management for Donors, NGOs, and Volunteers
-- 📦 **Delivery Tracking** — Manage and track the status of food deliveries
-- 🖼️ **Image Uploads** — Food listings support photo uploads via Pillow
+- 🥘 **Food Donation Listings** – Donors can post surplus food with details like quantity, type, and pickup location
+- 🏢 **NGO Dashboard** – NGOs can browse available donations and claim them for redistribution
+- 🚴 **Volunteer Management** – Volunteers can register and assist with food pickup and delivery
+- 👤 **User Authentication** – Separate registration and profile management for Donors, NGOs, and Volunteers
+- 📦 **Delivery Tracking** – Manage and track the status of food deliveries
+- 🖼️ **Image Uploads** – Food listings support photo uploads via Pillow
 ---
  
 ## 🗂️ Project Structure
@@ -56,7 +55,7 @@ Ahaar_Bonton/
 | Layer | Technology |
 |-------|-----------|
 | Backend Framework | Django 6.0.5 |
-| Language | Python 3.x |
+| Language | Python 3.13.0 |
 | Database | SQLite (default) |
 | Frontend | HTML5, CSS3, JavaScript |
 | Image Handling | Pillow 12.2.0 |
