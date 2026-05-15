@@ -1,14 +1,11 @@
-<div align="center">
-![Ahaar Bonton Banner](Assets/Banner/AhaarBonton Banner.png)
- 
-# 🍛 Ahaar Bonton — আহার বণ্টন
+<p align="center">
+  <img src="Assets/Banner/AhaarBonton Banner.png" alt="Ahaar Bonton Banner" width="100%">
+</p>
  
 ### A Surplus Food Redistribution Platform
-
-</div>
  
 *Connecting Donors, NGOs, and Volunteers to Reduce Food Waste*
-
+</div>
 ---
  
 ## 📖 About the Project
