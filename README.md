@@ -58,16 +58,12 @@ A donor (restaurant, household, or event organizer) logs in and creates a food p
 
 The post immediately becomes visible to all registered NGOs on their dashboard.
 
----
-
 ### 🏢 Step 2  –  NGO Requests Food
 
 NGOs browse available food sorted by **expiry priority** (soonest expiring first).  
 They can filter by category and see a live expiry countdown on each card.
 
 When an NGO finds suitable food, they send a **collection request** with an optional message to the donor.
-
----
 
 ### ✅ Step 3  –  Donor Approves the Request
 
@@ -80,8 +76,6 @@ On **approval**, the system automatically:
   - `Pickup OTP` → visible to the Donor (given to Volunteer at pickup)
   - `Delivery OTP` → sent to the NGO via email (given to Volunteer at delivery)
 
----
-
 ### 🚚 Step 4  –  Volunteer Accepts the Delivery
 
 Volunteers browse open delivery jobs and accept one.
@@ -90,8 +84,6 @@ Each job shows:
 - Pickup location (Donor's address)
 - Drop-off location (NGO name)
 - Food quantity and expiry time
-
----
 
 ### 🔐 Step 5  –  Pickup Confirmed (OTP 1)
 
@@ -105,8 +97,6 @@ The volunteer enters the Pickup OTP in their dashboard:
 At this point, the NGO receives an email notification:  
 *"Food is on the way! Your Delivery OTP: XXXXXX"*
 
----
-
 ### 🏁 Step 6  –  Delivery Confirmed (OTP 2)
 
 The volunteer arrives at the NGO and hands over the food.  
@@ -115,8 +105,6 @@ The **NGO shares the Delivery OTP** with the volunteer.
 The volunteer enters the Delivery OTP in their dashboard:
 - ✅ Correct OTP → Delivery confirmed, status updates to **Delivered**
 - ❌ Wrong OTP → Error shown
-
----
 
 ### 🎉 Step 7  –  Completion & Impact
 
