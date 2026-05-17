@@ -49,7 +49,7 @@ AhaarBonton follows a simple, transparent, and verified flow from food surplus t
 
 ### 👤 Step 1  –  Donor Posts Food
 
-A donor (restaurant, household, or event organizer) logs in and creates a food post with :
+A donor (restaurant, household, or event organizer) logs in and creates a food post with:
 - Food title, description, and quantity
 - Category (Cooked / Raw / Packaged / Bakery)
 - Pickup location (auto-filled via GPS)
