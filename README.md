@@ -49,7 +49,7 @@ AhaarBonton follows a simple, transparent, and verified flow from food surplus t
 
 ### 👤 Step 1  –  Donor Posts Food
 
-A donor (restaurant, household, or event organizer) logs in and creates a food post with:
+A donor (restaurant, household, or event organizer) logs in and creates a food post with :
 - Food title, description, and quantity
 - Category (Cooked / Raw / Packaged / Bakery)
 - Pickup location (auto-filled via GPS)
@@ -69,7 +69,7 @@ When an NGO finds suitable food, they send a **collection request** with an opti
 
 The donor reviews incoming requests and approves or rejects them.
 
-On **approval**, the system automatically:
+On **approval**, the system automatically :
 - Marks the food post as **Claimed**
 - Creates a **Delivery record**
 - Generates **two unique 6-digit OTPs**:
@@ -80,7 +80,7 @@ On **approval**, the system automatically:
 
 Volunteers browse open delivery jobs and accept one.
 
-Each job shows:
+Each job shows :
 - Pickup location (Donor's address)
 - Drop-off location (NGO name)
 - Food quantity and expiry time
@@ -102,13 +102,13 @@ At this point, the NGO receives an email notification:
 The volunteer arrives at the NGO and hands over the food.  
 The **NGO shares the Delivery OTP** with the volunteer.
 
-The volunteer enters the Delivery OTP in their dashboard:
+The volunteer enters the Delivery OTP in their dashboard :
 - ✅ Correct OTP → Delivery confirmed, status updates to **Delivered**
 - ❌ Wrong OTP → Error shown
 
 ### 🎉 Step 7  –  Completion & Impact
 
-Once delivery is confirmed, the system automatically updates:
+Once delivery is confirmed, the system automatically updates :
 
 | What | Result |
 |---|---|
