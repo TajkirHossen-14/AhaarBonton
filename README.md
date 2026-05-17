@@ -112,11 +112,11 @@ Once delivery is confirmed, the system automatically updates:
 
 | What | Result |
 |---|---|
-| Food Post status | `Delivered` |
-| Food Request status | `Completed` |
-| Donor & Volunteer Trust Score | `+5 points` |
-| Transparency Dashboard | Updated with new delivery |
-| Donor notification | Email confirmation sent |
+| Food Post Status | `Delivered` |
+| Food Request Status | `Completed` |
+| Donor & Volunteer Trust Score | `+5 Points` |
+| Transparency Dashboard | Updated With New Delivery |
+| Donor Notification | Email Confirmation Sent |
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
