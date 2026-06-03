@@ -246,7 +246,7 @@ AhaarBonton/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/TajkirHossen-14/AhaarBonton.git
-cd Ahaar_Bonton
+cd AhaarBonton
 ```
  
 **2. Create and activate a virtual environment**
