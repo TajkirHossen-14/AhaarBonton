@@ -10,8 +10,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-6.0-092E20?logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen">
+  <!-- <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen"> -->
 </p>
 
 –·–
@@ -277,7 +277,7 @@ Ahaar_Bonton/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/TajkirHossen-14/Ahaar_Bonton.git
+git clone https://github.com/TajkirHossen-14/AhaarBonton.git
 cd Ahaar_Bonton
 ```
 
@@ -320,7 +320,7 @@ Now open your browser and visit **http://127.0.0.1:8000** 🎉
 
 | Role | Description |
 |------|-------------|
-| 🧑‍🍳 **Donor** | Individuals, restaurants, or businesses that post surplus food |
+| 👤 **Donor** | Individuals, restaurants, or businesses that post surplus food |
 | 🏢 **NGO** | Organizations that claim food donations and manage distribution |
 | 🚴 **Volunteer** | Individuals who help with pickup and delivery of food |
 | 🛠️ **Admin** | Manages users, monitors food posts, and oversees platform activity |
